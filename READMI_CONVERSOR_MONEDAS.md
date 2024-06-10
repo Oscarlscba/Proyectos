@@ -9,10 +9,6 @@
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Créditos](#créditos)
-- [Licencia](#licencia)
-
 ## Descripción
 
 Este proyecto es un conversor de monedas que utiliza la API de Exchange Rate para obtener las tasas de cambio actualizadas. El conversor permite convertir entre varias monedas como el Peso argentino, Boliviano boliviano, Real brasileño, Peso chileno, Peso colombiano y Dólar estadounidense.
